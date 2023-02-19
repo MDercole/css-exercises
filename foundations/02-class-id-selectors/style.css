@@ -1,0 +1,17 @@
+/* styles.css */
+
+p { background-color: #ffcccc;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.two { color: #b3f0ff;
+    font-size: 36px;
+}
+
+.three, .four {
+    font-size: 24px;
+}
+
+.four { background-color: #99ff99;
+    font-weight: bold;
+}
